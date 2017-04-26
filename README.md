@@ -1,6 +1,6 @@
 # npmtest-moment
 
-#### test coverage for  [moment (v2.18.1)](http://momentjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-moment.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment.svg)](https://travis-ci.org/npmtest/node-npmtest-moment)
+#### basic test coverage for  [moment (v2.18.1)](http://momentjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-moment.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-moment) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-moment.svg)](https://travis-ci.org/npmtest/node-npmtest-moment)
 
 #### Parse, validate, manipulate, and display dates
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-moment/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-moment/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-moment/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-moment/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-moment/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-moment/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-moment/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-moment/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-moment/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-moment/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-moment/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-moment/build/coverage.html/index.html)
 
@@ -170,7 +170,8 @@
         ]
     },
     "typings": "./moment.d.ts",
-    "version": "2.18.1"
+    "version": "2.18.1",
+    "bin": {}
 }
 ```
 
