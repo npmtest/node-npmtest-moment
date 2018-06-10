@@ -33229,7 +33229,7 @@ local.stateInit({
             "npm_package_homepage": "https://github.com/npmtest/node-npmtest-moment",
             "npm_package_name": "npmtest-moment",
             "npm_package_nameLib": "npmtest_moment",
-            "npm_package_version": "2017.4.27"
+            "npm_package_version": "2018.6.10"
         }
     }
 });
